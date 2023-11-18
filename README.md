@@ -7,7 +7,7 @@
 
 ## Overview
 
-Link to paper: https://doi.org/10.1016/j.ress.2023.109547
+Link to paper: https://doi.org/10.1016/j.ress.2023.109547 \\
 Cite this work as: Rahul Rathnakumar, Yutian Pang, Yongming Liu, Epistemic and aleatoric uncertainty quantification for crack detection using a Bayesian Boundary Aware Convolutional Network,
 Reliability Engineering & System Safety, Volume 240, 2023, 109547, ISSN 0951-8320, https://doi.org/10.1016/j.ress.2023.109547.
 
