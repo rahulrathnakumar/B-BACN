@@ -16,9 +16,6 @@ Reliability Engineering & System Safety, Volume 240, 2023, 109547, ISSN 0951-832
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -27,3 +24,7 @@ Reliability Engineering & System Safety, Volume 240, 2023, 109547, ISSN 0951-832
 # Example installation steps
 git clone https://github.com/rahulrathnakumar/B-BACN.git
 cd B-BACN
+```
+
+## Usage
+TBD
